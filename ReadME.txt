@@ -1,0 +1,1 @@
+This is a game of Ping-Pong, playable with 2 players, please enjoy!
